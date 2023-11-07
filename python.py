@@ -4,5 +4,7 @@ b = 400
 
 c = 150
 
-print (a+b+c)
+d = 250
+
+print (a+b+c+d)
 
